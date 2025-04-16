@@ -70,3 +70,5 @@ end
 
 gem 'dotenv-rails'
 gem 'devise'
+gem 'stripe'
+gem 'table_print'
